@@ -1,0 +1,5 @@
+*.xcodeproj/
+build/
+.gradle/
+android/app/build/
+local.properties
